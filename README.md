@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devanshk9
-- 👀 I’m interested in ... Web and Android Development
+- 👀 I’m interested in ... Development and CP
 - 📫 How to reach me ... Mail me at devanshkhetan9@gmail.com
 
 <!---
