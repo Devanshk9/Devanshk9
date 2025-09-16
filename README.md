@@ -1,5 +1,9 @@
-<h2 align="left">Hi 👋! My name is Devansh Khetan and I'm a Full-Stack Developer & FinTech Enthusiast from India</h2>
 
+### About Me  
+
+
+I enjoy building full-stack projects and exploring ideas at the intersection of software and finance.
+Co-founder of [NoteGo](https://notego.in), an academic platform for students, and a Google Code-in 2019 finalist with OpenMRS.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/watchu_devansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-khetan-027681176) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshkhetan9@gmail.com) 
